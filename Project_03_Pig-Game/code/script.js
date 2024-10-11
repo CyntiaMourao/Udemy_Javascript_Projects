@@ -6,7 +6,7 @@ const score1Elem = document.getElementById('score--1');
 const current0Elem = document.getElementById('current--0');
 const current1Elem = document.getElementById('current--1');
 const diceElem = document.querySelector('.dice');
-const rollDiceBtn = document.querySelector('.btn--roll');
+const rollDgit iceBtn = document.querySelector('.btn--roll');
 const holdBtn = document.querySelector('.btn--hold');
 
 // --- Condições iniciais --- \\
